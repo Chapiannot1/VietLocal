@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 814723902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc567fe078ff7b6347a03d6fb743513c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4069face3e5cd57c1ee6b7d219f6e472
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dc567fe078ff7b6347a03d6fb743513c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+Assets:
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/MetalGoldPaint002_COL_2K_METALNESS.png
+- Assets/Mods/vietlocal/Items/Scraps/Bong/bong.blend
+- Assets/Mods/vietlocal/Items/Scraps/BeHa/Beer Hanoi.prefab
+- Assets/Mods/vietlocal/Items/Scraps/WhiteNote/Soghidaubaiback.png
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/Wood.mat
+- Assets/Mods/vietlocal/Items/Scraps/BeHa/Beer Hanoi.asset
+- Assets/Mods/vietlocal/Items/Scraps/WhiteNote/WhiteNote.asset
+- Assets/Mods/vietlocal/Items/Scraps/BeHa/Beer Hanoi.blend
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/MetalGoldPaint002_NRM_2K_METALNESS.png
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/Gold.mat
+- Assets/Mods/vietlocal/Items/Scraps/BeHa/56047.jpg
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/MetalGoldPaint002_ROUGHNESS_2K_METALNESS.png
+- Assets/Mods/vietlocal/Items/Scraps/BeHa/images.jpg
+- Assets/Mods/vietlocal/Items/Scraps/Bong/bong.asset
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/Gold Textured.mat
+- Assets/Mods/vietlocal/Items/Scraps/WhiteNote/Soghidaubaifront.png
+- Assets/Mods/vietlocal/Items/Scraps/BeHa/c5f9b1f043ec3a2c4766c3de1679242a.jpg
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/Gold - Copy.png
+- Assets/Mods/vietlocal/ModManifest.asset
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/MetalGoldPaint002_METALNESS_2K_METALNESS.png
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/Black.mat
+- Assets/Mods/vietlocal/Items/Scraps/WhiteNote/WhiteNote.prefab
+- Assets/Mods/vietlocal/Items/Scraps/Bong/bong.prefab
+- Assets/Mods/vietlocal/Items/Scraps/Bong/Materials/darkwood.jpg
+- Assets/Mods/vietlocal/Items/Scraps/WhiteNote/WhiteNote.blend
+- Assets/Mods/vietlocal/vietlocal.asset
+Dependencies: []
